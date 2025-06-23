@@ -1,2 +1,2 @@
-# lorain-recipe-
-HTML+CSS
+# HTML project
+HTML+ inline CSS
